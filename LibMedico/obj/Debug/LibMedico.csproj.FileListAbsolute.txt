@@ -1,0 +1,6 @@
+C:\Users\Alternativa\Desktop\Práctica Exception\slnException\LibMedico\bin\Debug\LibMedico.dll
+C:\Users\Alternativa\Desktop\Práctica Exception\slnException\LibMedico\bin\Debug\LibMedico.pdb
+C:\Users\Alternativa\Desktop\Práctica Exception\slnException\LibMedico\obj\Debug\LibMedico.csproj.AssemblyReference.cache
+C:\Users\Alternativa\Desktop\Práctica Exception\slnException\LibMedico\obj\Debug\LibMedico.csproj.CoreCompileInputs.cache
+C:\Users\Alternativa\Desktop\Práctica Exception\slnException\LibMedico\obj\Debug\LibMedico.dll
+C:\Users\Alternativa\Desktop\Práctica Exception\slnException\LibMedico\obj\Debug\LibMedico.pdb

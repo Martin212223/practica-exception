@@ -1,0 +1,14 @@
+C:\Users\Alternativa\Desktop\Práctica Exception\slnException\WindowsPresentacion\bin\Debug\WindowsPresentacion.exe.config
+C:\Users\Alternativa\Desktop\Práctica Exception\slnException\WindowsPresentacion\bin\Debug\WindowsPresentacion.exe
+C:\Users\Alternativa\Desktop\Práctica Exception\slnException\WindowsPresentacion\bin\Debug\WindowsPresentacion.pdb
+C:\Users\Alternativa\Desktop\Práctica Exception\slnException\WindowsPresentacion\bin\Debug\LibMedico.dll
+C:\Users\Alternativa\Desktop\Práctica Exception\slnException\WindowsPresentacion\bin\Debug\LibMedico.pdb
+C:\Users\Alternativa\Desktop\Práctica Exception\slnException\WindowsPresentacion\obj\Debug\WindowsPresentacion.csproj.AssemblyReference.cache
+C:\Users\Alternativa\Desktop\Práctica Exception\slnException\WindowsPresentacion\obj\Debug\WindowsPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alternativa\Desktop\Práctica Exception\slnException\WindowsPresentacion\obj\Debug\WindowsPresentacion.Form1.resources
+C:\Users\Alternativa\Desktop\Práctica Exception\slnException\WindowsPresentacion\obj\Debug\WindowsPresentacion.Properties.Resources.resources
+C:\Users\Alternativa\Desktop\Práctica Exception\slnException\WindowsPresentacion\obj\Debug\WindowsPresentacion.csproj.GenerateResource.cache
+C:\Users\Alternativa\Desktop\Práctica Exception\slnException\WindowsPresentacion\obj\Debug\WindowsPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Alternativa\Desktop\Práctica Exception\slnException\WindowsPresentacion\obj\Debug\WindowsPresentacion.csproj.CopyComplete
+C:\Users\Alternativa\Desktop\Práctica Exception\slnException\WindowsPresentacion\obj\Debug\WindowsPresentacion.exe
+C:\Users\Alternativa\Desktop\Práctica Exception\slnException\WindowsPresentacion\obj\Debug\WindowsPresentacion.pdb
